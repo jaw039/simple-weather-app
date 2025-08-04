@@ -11,7 +11,7 @@ while True:
     if response.status_code == 200:
         break
     else:
-        print("Invalid City Name")
+        print("Invalid City Name, Please Enter Again")
 
 
 ## stores the data into a dict
